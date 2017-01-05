@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{A3D17E5F-2659-4EAD-87A1-3B7E56E90807}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyTunes.iOS/MyTunesViewController.cs">
+    <Files>
+      <File FileName="MyTunes.iOS/MyTunesViewController.cs" Line="22" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyTunes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>

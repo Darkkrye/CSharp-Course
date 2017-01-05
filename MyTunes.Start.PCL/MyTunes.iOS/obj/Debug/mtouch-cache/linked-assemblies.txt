@@ -1,0 +1,13 @@
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/System.Xml.Linq.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/System.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/System.Core.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/Newtonsoft.Json.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/Mono.CSharp.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/Microsoft.CSharp.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/MyTunesiOS.exe
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/MyTunes.Shared.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
