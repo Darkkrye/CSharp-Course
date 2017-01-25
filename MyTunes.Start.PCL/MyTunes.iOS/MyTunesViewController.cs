@@ -19,6 +19,10 @@ namespace MyTunes
 			base.ViewDidLoad();
 
 			// Load the data
+<<<<<<< HEAD
+=======
+			SongLoader.Loader = new StreamLoader();
+>>>>>>> 0d49e7e0e3f5753cdf2511dedff235a36394d5d2
             var data = await SongLoader.Load();
 
 			// Register the TableView's data source

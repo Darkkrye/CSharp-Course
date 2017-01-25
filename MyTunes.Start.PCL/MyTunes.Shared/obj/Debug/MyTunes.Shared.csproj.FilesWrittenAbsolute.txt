@@ -1,0 +1,6 @@
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.Shared/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.Shared/bin/Debug/MyTunes.Shared.dll.mdb
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.Shared/bin/Debug/MyTunes.Shared.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.Shared/obj/Debug/MyTunes.Shared.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.Shared/obj/Debug/MyTunes.Shared.dll.mdb
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.Shared/bin/Debug/Newtonsoft.Json.dll

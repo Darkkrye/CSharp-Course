@@ -1,0 +1,12 @@
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/actool/_PartialAppManifest.items
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/optimized/Default-568h@2x.png
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/optimized/
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/bin/Debug/Newtonsoft.Json.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/bin/Debug/MyTunes.Shared.dll
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/bin/Debug/MyTunes.Shared.dll.mdb
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/bin/Debug/MyTunesiOS.exe.mdb
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/bin/Debug/MyTunesiOS.exe
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/MyTunesiOS.exe
+/Users/Pierre/Documents/Git/GitHub/CSharp-Course/MyTunes.Start.PCL/MyTunes.iOS/obj/Debug/MyTunesiOS.exe.mdb

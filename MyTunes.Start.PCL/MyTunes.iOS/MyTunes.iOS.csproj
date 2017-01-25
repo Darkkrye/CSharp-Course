@@ -128,28 +128,53 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
     </Reference>
+=======
+>>>>>>> 0d49e7e0e3f5753cdf2511dedff235a36394d5d2
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
+<<<<<<< HEAD
+=======
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+>>>>>>> 0d49e7e0e3f5753cdf2511dedff235a36394d5d2
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default-568h%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
+<<<<<<< HEAD
     <None Include="packages.config" />
     <BundleResource Include="Resources\songs.json" />
     <None Include="Entitlements.plist" />
+=======
+    <BundleResource Include="Resources\songs.json" />
+    <None Include="Entitlements.plist" />
+    <None Include="packages.config" />
+>>>>>>> 0d49e7e0e3f5753cdf2511dedff235a36394d5d2
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <Compile Include="ViewControllerSource.cs" />
     <Compile Include="MyTunesViewController.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="StreamLoader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyTunes.Shared\MyTunes.Shared.csproj">
+      <Project>{4EFCA6E9-7F3B-4407-96D9-EBB5EAE185E6}</Project>
+      <Name>MyTunes.Shared</Name>
+    </ProjectReference>
+>>>>>>> 0d49e7e0e3f5753cdf2511dedff235a36394d5d2
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

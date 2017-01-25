@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3D54620E-23F2-462B-A824-B074D41BD507}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailPageNavigation/MasterPageCS.cs">
+    <Files>
+      <File FileName="MasterDetailPageNavigation/MasterPage.xaml.cs" Line="20" Column="7" />
+      <File FileName="MasterDetailPageNavigation/MasterPageCS.cs" Line="42" Column="6" />
+      <File FileName="MasterDetailPageNavigation/MainPage.xaml.cs" Line="23" Column="1" />
+      <File FileName="MasterDetailPageNavigation/LoginPageCS.cs" Line="20" Column="6" />
+      <File FileName="MasterDetailPageNavigation/ReminderPageCS.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MasterDetailPageNavigation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1E870C74-E0FC-4955-8CA4-01D31F922860" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
