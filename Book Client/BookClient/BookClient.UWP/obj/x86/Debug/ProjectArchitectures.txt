@@ -1,0 +1,2 @@
+C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.UWP\BookClient.UWP.csproj;x86
+C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient\BookClient.csproj;neutral

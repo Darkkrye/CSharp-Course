@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROG-PIERRE</Machine>
+    <WindowsUser>Pierre</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4BC36290-CD7A-4D5F-BCBA-E846835481A8</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Xamarin</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\bin\Debug\BookClient.Windows.exe">
+      <PackagePath>BookClient.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient\bin\Debug\BookClient.dll">
+      <PackagePath>BookClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\ic_action_new.png">
+      <PackagePath>ic_action_new.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\ic_autorenew.png">
+      <PackagePath>ic_autorenew.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\bin\Debug\BookClient.Windows.xr.xml">
+      <PackagePath>BookClient.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\packages\Xamarin.Forms.2.0.1.6505\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

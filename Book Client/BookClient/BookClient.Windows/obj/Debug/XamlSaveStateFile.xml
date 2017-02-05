@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\pierre\documents\git\github\csharp-course\book client\bookclient\bookclient.windows\obj\debug\intermediatexaml\bookclient.windows.exe" HashGuid="c318ffb8-5031-f622-7342-68a8ac2f9d5c" />
+    <ReferenceAssembly PathName="c:\users\pierre\documents\git\github\csharp-course\book client\packages\xamarin.forms.2.0.1.6505\lib\win81\xamarin.forms.core.dll" HashGuid="81f082c0-b7e7-95b3-a9ed-2e2d9b51621f" />
+    <ReferenceAssembly PathName="c:\users\pierre\documents\git\github\csharp-course\book client\packages\xamarin.forms.2.0.1.6505\lib\win81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\pierre\documents\git\github\csharp-course\book client\packages\xamarin.forms.2.0.1.6505\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="09df3e6d-c8e4-1b3a-9413-ccfd192bf1ff" />
+    <ReferenceAssembly PathName="c:\users\pierre\documents\git\github\csharp-course\book client\packages\xamarin.forms.2.0.1.6505\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="cc26105e-9714-a8a4-7460-d1885be1ee00" />
+    <ReferenceAssembly PathName="c:\users\pierre\documents\git\github\csharp-course\book client\packages\xamarin.forms.2.0.1.6505\lib\win81\xamarin.forms.xaml.dll" HashGuid="3953804c-3f4d-f50e-72fc-d5c6cd693e13" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
