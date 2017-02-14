@@ -23,3 +23,5 @@ C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookCl
 C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient\bin\Debug\BookClient.dll.mdb
 C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient\obj\Debug\BookClient.dll.mdb
 C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient\bin\Debug\BookClient.dll.mdb
+C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient\obj\Debug\BookClient.dll.mdb
+C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\Book Client\BookClient\BookClient\bin\Debug\BookClient.dll.mdb

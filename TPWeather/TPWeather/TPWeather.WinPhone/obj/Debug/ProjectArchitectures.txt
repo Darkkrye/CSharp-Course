@@ -1,0 +1,2 @@
+C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\TPWeather\TPWeather\TPWeather.WinPhone\TPWeather.WinPhone.csproj;neutral
+C:\Users\Pierre\Documents\Git\GitHub\CSharp-Course\TPWeather\TPWeather\TPWeather\TPWeather.csproj;neutral

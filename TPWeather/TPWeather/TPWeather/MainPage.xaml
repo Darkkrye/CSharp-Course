@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TPWeather.MainPage">
+
+  <StackLayout>
+
+    <Entry x:Name="TextField" Text="London" Placeholder="Search by City or Zip Code"></Entry>
+    <Button Text="Search"
+            Clicked="OnSearchClicked" />
+
+    <Label Text="Location"></Label>
+    <Label x:Name="locationLabel"
+           Font="Large" TextColor="Black" />
+
+    <Label Text="Temperature"></Label>
+    <Label x:Name="tempLabel"
+           Font="Large" TextColor="Black" />
+
+    <Label Text="Wind Speed"></Label>
+    <Label x:Name="windLabel"
+           Font="Large" TextColor="Black" />
+
+    <Label Text="Humidity"></Label>
+    <Label x:Name="humidityLabel"
+           Font="Large" TextColor="Black" />
+
+    <Label Text="Visibility"></Label>
+    <Label x:Name="visibilityLabel"
+           Font="Large" TextColor="Black" />
+
+    <Label Text="Sunrise"></Label>
+    <Label x:Name="sunriseLabel"
+           Font="Large" TextColor="Black" />
+
+    <Label Text="Sunset"></Label>
+    <Label x:Name="sunsetLabel"
+           Font="Large" TextColor="Black" />
+
+  </StackLayout>
+</ContentPage>
